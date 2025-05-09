@@ -1,0 +1,1 @@
+staticwebapp.database.config.json
